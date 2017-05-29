@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       font-family: Roboto;
-      color: #2e3738;
+      color: #a6bdbc;
       }
 
       h1 {
@@ -51,9 +51,15 @@
       font-family: 'Bitter', serif;
       letter-spacing: 0.06em;
       font-size: 120px;
-      color: #FFF;
+      color: #a6bdbc;
       opacity: 0.7;
       text-align: center;
+      }
+
+      .content {
+      height: 500px;
+      background: #a6bdbc;
+      color: black;
       }
 
       p {
@@ -73,6 +79,7 @@
       <div class="content">
         <div class="row">
           <div class="col-md-6">
+           <p>This is the left!</p>
           </div>
           <div class="col-md-6">
           </div>
@@ -80,6 +87,6 @@
       </div>
       <div id="brewery">
         <h1>Coming Soon 2018</h1>
-      </div>  
+      </div>
     </body>
   </html>
